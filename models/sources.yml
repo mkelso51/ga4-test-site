@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: bronze
+    database: ga4
+    schema: bronze
+    tables:
+      - name: sessiondata
